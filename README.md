@@ -1,0 +1,2 @@
+# thufir
+Mentat training
